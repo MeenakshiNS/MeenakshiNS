@@ -6,7 +6,7 @@
 - 🔭 I’m currently working in **BroCamp**
 
 - 📫 How to reach me **hiringhrbot39@gmail.com**
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/240308118-6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0.gif">
 
 
 <h3 align="left">Connect with me:</h3>

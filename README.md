@@ -1,5 +1,5 @@
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=🫡Hello!;🤖Hobbie:learning+new+technologies.;👽I build clean and reusable code;😶‍🌫️Welcome to +my+working+environment!" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=🫡Welcome to +my+working+environment;🤖Hobbie:learning+new+technologies.;👽I build clean and reusable code!" alt="Typing SVG" /></a>
 ![GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm  Meenakshi</h1>
 <h3 align="center">A passionate MERN developer from India</h3>

@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/meenakshi-n-s-541b2624a/](https://www.linkedin.com/in/meenakshi-n-s-541b2624a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/meenakshi-n-s-541b2624a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/meenakshi-n-s-541b2624a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/meenakshi-n-s-541b2624a/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22604249/n-s-meenakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22604249/n-s-meenakshi" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/meenakshiarjun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/meenakshiarjun/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/hiringhrbot39/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/hiringhrbot39/" height="30" width="40" /></a>

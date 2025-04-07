@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Live Projects**
 
-- 💬 Ask me about **React**
+- 💬 Contact me for  Freelancing   wordpress works
 
 - 📫 How to reach me **hiringhrbot39@gmail.com**
 
